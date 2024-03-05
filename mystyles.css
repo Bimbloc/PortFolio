@@ -1,0 +1,15 @@
+.wrapper{
+    width: 700px;
+    height: 400px;
+    }
+    model-viewer{
+      height: 80%;
+      width: auto;
+    }
+    
+.center {
+        margin: auto;
+        width: 50%;
+        
+        padding: 10px;
+      }
